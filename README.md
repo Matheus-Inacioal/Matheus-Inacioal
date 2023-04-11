@@ -14,10 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&hide_progress=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Matheus-Inacioal/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Matheus-Inacioal" />
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Math-Ads" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
