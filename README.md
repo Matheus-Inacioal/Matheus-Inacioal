@@ -6,13 +6,11 @@
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
-<a href="https://github.com/Matheus-Inacioal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/Matheus-Inacioal/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&hide_progress=true&theme=gotham" />
-</a>
+<div align="center">
+  <a href="https://github.com/Matheus-Inacioal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Disrrptt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disrrptt&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
