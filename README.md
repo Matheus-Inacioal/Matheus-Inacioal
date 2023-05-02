@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 # Olá! Me chamo Matheus Inácio! 👋
 
 
@@ -6,11 +8,34 @@
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
-<div align="center">
-  <a href="https://github.com/Matheus-Inacioal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=gotham"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Matheus-Inacioal&bg_color=0d1117&color=FFFFFF&line=00BFFF&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheus-Inacioal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=FFFFFF" alt="Szervinski github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=FFFFFF" />
 </div>
+
+
+<div align="center"> 
+<a href="https://Matheus-Inacioal.github.io/CreditCard/" target="_blank"><img src="https://raw.githubusercontent.com/Matheus-Inacioal/CreditCard/main/logo.ico"</a>
+ </div>
+ 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Inacioal}/count.svg" /></p> 
+<br>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
@@ -29,3 +54,4 @@
   <a href="https://www.linkedin.com/in/matheus-almeida-22353823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
