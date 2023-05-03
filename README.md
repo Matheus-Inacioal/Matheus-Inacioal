@@ -1,4 +1,4 @@
-<!-- GitHub Stats --><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=FFFFFF&theme=radical" /><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=FFFFFF&theme=radical" /><br><!-- GitHub Stats -->
+<!-- GitHub Stats --><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=FFFFFF&theme=gotham" /><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=FFFFFF&theme=radical" /><br><!-- GitHub Stats -->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
