@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/Matheus-Inacioal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 # Olá! Me chamo Matheus Inácio! 👋
@@ -25,12 +19,11 @@
 
 
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=FFFFFF&theme=radical" alt="Matheus-Inacioal github stats" /> 
-
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=FFFFFF&theme=dark" />
-
-</div>
+<div align="center">
+  <a href="https://github.com/Matheus-Inacioal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=dark"/>
+</div>>
 
 
 <div align="center"> 
