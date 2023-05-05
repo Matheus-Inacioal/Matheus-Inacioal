@@ -40,6 +40,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Math-Ads" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Math-Kotlin" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg](https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg)">
   <img align="center" alt="Math-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
