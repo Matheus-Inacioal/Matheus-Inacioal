@@ -10,8 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Matheus-Inacioal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Inacioal&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -24,6 +22,11 @@
   <a href="https://github.com/Matheus-Inacioal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+<div align="center">  
+  <img width="450" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=000000" alt="Villeth github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=000000" />
 </div>
 
 
