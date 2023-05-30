@@ -24,17 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div align="center">  
-  <img width="450" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=000000" alt="Villeth github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=000000" />
-</div>
-
-
-<div align="center"> 
-<a href="https://Matheus-Inacioal.github.io/CreditCard/" target="_blank"><img src="https://raw.githubusercontent.com/Matheus-Inacioal/CreditCard/main/logo.ico"</a>
- </div>
- 
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Inacioal}/count.svg" /></p> 
