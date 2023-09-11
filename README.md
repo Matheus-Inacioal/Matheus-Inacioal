@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-
 # Olá! Me chamo Matheus Inácio! 👋
 
 - 👨‍💻 Hoje trabalho como Professor no Curso Qualifica-DF ministro o Curso de Desenvolvimento de Aplicativos Android Nativo
@@ -7,7 +5,7 @@
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Inacioal&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -16,18 +14,28 @@
 
 
 <div align="center">
+  
   <a href="https://github.com/Matheus-Inacioal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus-
+  Inacioal&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+  
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Inacioal&theme=github_dark_blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats"/>
+
+    
 </div>
+
+
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Inacioal}/count.svg" /></p> 
-<br>
+  
+  ![Contador de Visualizações](https://komarev.com/ghpvc/?username=Matheus-Inacioal&color=006bed)
+
 </div>
 
 
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Math-Ads" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
@@ -46,5 +54,3 @@
   <a href = "mailto:malmeidaarruda2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-almeida-22353823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
