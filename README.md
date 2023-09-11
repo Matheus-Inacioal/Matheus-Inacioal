@@ -16,12 +16,11 @@
 <div align="center">
   
   <a href="https://github.com/Matheus-Inacioal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus-
-  Inacioal&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
   
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Inacioal&theme=github_dark_blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats"/>
+  
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Inacioal&theme=github_dark_blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats"/>
 
     
 </div>
