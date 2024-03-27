@@ -1,7 +1,6 @@
 # Olá! Me chamo Matheus Inácio! 👋
 
-- 👨‍💻 Hoje trabalho como Professor no Curso Qualifica-DF ministro o Curso de Desenvolvimento de Aplicativos Android Nativo
-- 📚 Curso Engenharia de Software - UCB 3/8
+- 📚 Curso Engenharia de Software - UCB 4/8
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
