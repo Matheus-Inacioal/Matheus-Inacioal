@@ -1,6 +1,6 @@
 # Olá! Me chamo Matheus Inácio! 👋
 
-- 📚 Curso Engenharia de Software - UCB 6/8
+- 📚 Curso Engenharia de Software - UCB 7/8
 - 💡 Sou apaixonado em tecnologia e bugigangas eletrônicas. Procuro desafios sempre! 
 -->
 
