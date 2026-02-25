@@ -8,7 +8,9 @@ Sou estudante de **Engenharia de Software (UCB – 7/8)** e sigo construindo pro
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Inacioal&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Inacioal&theme=react-dark&hide_border=true&v=1" alt="Activity Graph"/>
+</p>
 
 <div align="center">
   <a href="https://github.com/Matheus-Inacioal">
