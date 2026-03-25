@@ -50,7 +50,6 @@ Sou estudante de **Engenharia de Software (UCB – 8/8)** e construo projetos co
   <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 </div>
 
-> **UI no TanqueCheio:** shadcn/ui + Tailwind CSS
 
 ---
 
