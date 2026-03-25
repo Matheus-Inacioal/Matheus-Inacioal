@@ -2,7 +2,7 @@
 
 Sou estudante de **Engenharia de Software (UCB – 7/8)** e sigo construindo projetos com foco em **produto, arquitetura e automação**, buscando evoluir para atuar como **Full Stack (Mobile + Backend + FrontEnd + Cloud)**.
 
-- 🚀 Projetos atuais (1 linha cada):
+- 🚀 Projetos atuais:
   - 🛢️ **TanqueCheio:** sistema web (Next.js + Firebase) para gestão de abastecimentos, consumo médio (km/L), gastos e alertas de manutenção.
   - 🍽️ **Restaurante360:** plataforma para organizar processos, rotinas, usuários e relatórios de operação/gestão de restaurantes, com futuras integrações.
 
