@@ -2,18 +2,23 @@
 
 Sou estudante de **Engenharia de Software (UCB – 8/8)** e construo projetos com foco em **produto, arquitetura e automação**, buscando evoluir para atuar como **Full Stack (Mobile + Backend + Cloud)**.
 
-- 🚀 Projetos atuais:
+- 🚀 Projetos atuais (1 linha cada):
   - 🛢️ **TanqueCheio:** sistema web (Next.js + Firebase) para gestão de abastecimentos, consumo médio (km/L), gastos e alertas de manutenção.
   - 🍽️ **Restaurante360:** plataforma para organizar processos, rotinas, usuários e relatórios de operação/gestão de restaurantes, com futuras integrações.
 
 ---
 
-<!-- Activity Graph (com quebra de cache) -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph.svg?username=Matheus-Inacioal&theme=react-dark&hide_border=true&v=1)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph (fallback automático: Vercel -> Cyclic) -->
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Inacioal&theme=react-dark&hide_border=true&v=3" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Matheus-Inacioal&theme=react-dark&hide_border=true&v=3" />
+  </picture>
+</p>
 
 <div align="center">
   <a href="https://github.com/Matheus-Inacioal">
-    <!-- GitHub Stats (com cache maior + quebra de cache) -->
+    <!-- GitHub Stats (cache maior + quebra de cache) -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Inacioal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=1"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Inacioal&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800&v=1"/>
   </a>
